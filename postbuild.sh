@@ -51,7 +51,7 @@ read -r -d '' package_json_text <<EOF
 	"main": "index.cjs",
 	"module": "index.js",
 	"license": "MIT",
-	"description": "Crypto methods intended to be used within Ukrainian Social Platform",
+	"description": "A set of client-side cryptographic methods for Ukrainian Social Platform",
 	"repository": "github:ukrainian-social-platform/client-crypto",
 	"dependencies": {
 		"@ukrainian-social-platform/bip39-dictionaries": "^0.0.1"
